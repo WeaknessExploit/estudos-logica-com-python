@@ -19,9 +19,9 @@ Desenvolver conhecimentos práticos sobre controle de versão, colaboração em 
 
 ## 2. 💬 Criação e discussão de Issues
 
-- [ ] Abrir uma Issue propondo conteúdo explicativo sobre programação orientada a objetos (POO) e sua diferença em relação a outros paradigmas.
-- [ ] Compreender a finalidade das Issues na documentação, discussão e organização de tarefas.
-- [ ] Acompanhar comentários, respostas e eventuais solicitações de esclarecimento.
+- [x] Abrir uma Issue propondo conteúdo explicativo sobre programação orientada a objetos (POO) e sua diferença em relação a outros paradigmas.
+- [x] Compreender a finalidade das Issues na documentação, discussão e organização de tarefas.
+- [x] Acompanhar comentários, respostas e eventuais solicitações de esclarecimento.
 
 ## 3. 🌿 Fluxo de trabalho com Git e GitHub
 
