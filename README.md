@@ -43,11 +43,11 @@ Desenvolver conhecimentos práticos sobre controle de versão, colaboração em 
 
 ## 5. ☁️ GitHub Codespaces e ferramentas de IA
 
-- [ ] Criar e configurar um ambiente de desenvolvimento no GitHub Codespaces.
-- [ ] Explorar as ferramentas de inteligência artificial disponíveis no ambiente.
-- [ ] Gerar, revisar e testar código com auxílio de IA.
-- [ ] Comparar o desenvolvimento em ambientes remotos com IDEs instaladas localmente.
-- [ ] Avaliar consumo de recursos, praticidade, custos e limitações.
+- [x] Criar e configurar um ambiente de desenvolvimento no GitHub Codespaces.
+- [x] Explorar as ferramentas de inteligência artificial disponíveis no ambiente.
+- [x] Gerar, revisar e testar código com auxílio de IA.
+- [x] Comparar o desenvolvimento em ambientes remotos com IDEs instaladas localmente.
+- [x] Avaliar consumo de recursos, praticidade, custos e limitações.
 
 ## 6. 📋 Gerenciamento de projetos e tarefas
 
